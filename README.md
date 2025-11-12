@@ -43,6 +43,7 @@ It provides **network-wide ad blocking**, **tracking protection**, and **DNS vis
    - https://v.firebog.net/hosts/Easylist.txt
    - https://v.firebog.net/hosts/Easyprivacy.txt
    - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+   - ...
 6. Enabled *“Listen on all interfaces”* and verified network-wide operation.
 
 

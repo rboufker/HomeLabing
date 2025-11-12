@@ -2,6 +2,27 @@
 This is everything I did in my own network to learn basic concepts of networking, and to make my life easier.
 
 
+# From Telenet Modem/Router to Telenet Modem and TP Link Router
+
+
+
+
+# Proxmox VE
+
+
+
+# OpenMediaVault NAS solution
+
+
+
+# VPN Wireguard
+
+
+
+# Databank Postgres and Redis Server for App
+
+
+
 # Pi-hole DNS Ad-Blocking Server
 
 ## Overview
